@@ -8,4 +8,11 @@ This repository contains the Magma code used for experiments presented in the pa
 
 ---
 
-## 📁 Repository Structure
+## 🧩 Modules Overview
+
+| File Name                   | Description                                                                          |
+|-----------------------------|--------------------------------------------------------------------------------------|
+| `intersection_experiment.m` | Computes the rank of the Macaulay matrix in the intersection attack (Table 2)        |
+| `intersection_complexity.m` | Estimates the complexity of the intersection attack (Table 3)                        |
+| `rectangular_experiment.m`  | Computes the rank of the Macaulay matrix in the rectangular MinRank attack (Table 5) |
+| `rectangular_complexity.m`  | Estimates the complexity of the rectangular MinRank attack (Table 4)                 |
